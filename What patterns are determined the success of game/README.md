@@ -1,0 +1,2 @@
+	What patterns are determined the success of game
+Identify the regularities that determine the success of the game, which will allow you to bet on a potentially popular product and plan advertising campaigns for the next year.
