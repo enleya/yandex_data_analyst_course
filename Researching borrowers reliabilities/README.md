@@ -1,2 +1,2 @@
-	Researching borrowers reliabilities
+## Researching borrowers reliabilities
 Based on statistics on the solvency of clients, check whether the marital status and the number of the client's children affect the fact that the loan is repaid on time.

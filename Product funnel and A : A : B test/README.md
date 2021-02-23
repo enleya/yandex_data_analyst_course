@@ -1,2 +1,3 @@
-	Product funnel and A / A / B test
+## Product funnel and A / A / B test
 Analyze the sales funnel and evaluate the results of A/A/B testing based on the using of a mobile application for selling grocery.
+I use interactive diagrams in my notebook. For a full view of the project, use the link: https://nbviewer.jupyter.org/github/enleya/yandex_data_analyst_course/blob/fa7e6ea7ec5d7f2828dde9c7033f559a678d976e/Product%20funnel%20and%20A%20%3A%20A%20%3A%20B%20test/Product%20funnel%20and%20A%20%3A%20A%20%3A%20B%20test.ipynb

@@ -1,2 +1,3 @@
-	Moscow public catering market research
+## Moscow public catering market research
 Researching  public catering market based on open data.
+I use interactive diagrams in my notebook. For a full view of the project, use the link: https://nbviewer.jupyter.org/github/enleya/yandex_data_analyst_course/blob/fa7e6ea7ec5d7f2828dde9c7033f559a678d976e/Moscow%20public%20catering%20market%20research/Moscow%20public%20catering%20market%20research.ipynb
